@@ -1,0 +1,112 @@
+html,
+body,
+#map,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+/* Give the body a white background color */
+body {
+  background: #f1f1f1;
+}
+
+/* Main container for the pages */
+.container {
+  margin-top: 10px;
+}
+
+/* Give the .dataframe bold titles */
+.dataframe thead th {
+  font-weight: bold;
+}
+
+/* Add font family, size, and weight for the header elements plus space around then */
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+/* Style the header, giving it a height, a background color, and some top padding */
+.header {
+  height: 200px;
+  padding-top: 20px;
+  background: #cdcdcd;
+}
+
+/* Center the h1 tag inside our header, give it a little padding, remove its margin */
+.header h1 h2 {
+  padding: 60px;
+  margin: 0;
+  color: #000;
+  text-align: center;
+}
+.landing page {
+  padding: 20px;
+  margin-left: 20px;
+}
+
+/* Add a margin at the top of the page so the words don't tough the top */
+.margin-top-80 {
+  margin-top: 80px;
+}
+
+/* Give the navbar some padding and a background color */
+.navbar {
+  padding: 10px;
+  background: #5191fd;
+}
+
+/* Make the navbar li's inline-block elements */
+.navbar li {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Get rid of the default link styles here and name font family */
+.navbar li a {
+  color: #000;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Font type for data table column headers */
+.table-head {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
