@@ -1,5 +1,7 @@
 ##Graduate College Rankings Map
 
+Link to website: [Graduate College Rankings Map](https://dianess.github.io/Graduate-College-Rankings-Map/)
+
 In this project, our team has created maps of the U.S. graduate colleges in the top-20 rankings for different graduate programs. We used Python for webscraping, SQL to combine data from different sources, Leaflet and Mapbox for our maps, geoJSON to plot on the maps, HTML, CSS, and JavaScript to create interactive web pages.
 
 ***ETL***
