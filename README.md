@@ -13,7 +13,7 @@ After some cleaning of data to make sure the univerity names from each source ma
 ***end ETL***
 
 We created 3 different pages that are launched from a landing page. Those include the top 20 universities for 9 different graduate programs:
-<img src="/Resources/Graduate-College-Rankings-Top-20" alt="Grad Programs">
+<img src="/Resources/Graduate-College-Rankings-Top-20.png" alt="Grad Programs">
 the top 20 universities for 6 subcategories of science graduate programs:
 
   and a view that shows each of a university's ranked graduate programs.
