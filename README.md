@@ -18,7 +18,7 @@ Each of the university's ranked graduate programs:
 <img src="/Resources/Ranked-Grad-Programs-By-University.png" alt="Grad Ranks by University">
 
 The "Data" Tab shows all the data for all the ranked graduate programs. As the user scrolls over the data, each row is highlighted as shown below for the University of Chicago.
-<img src="/Resources/Graduate-College-Rankings-Datapng" alt="Grad Rankings Data">
+<img src="/Resources/Graduate-College-Rankings-Data.png" alt="Grad Rankings Data">
 
 ***ETL***
 The geoJSON file that we pulled from Data.gov had many schools in it (7521 total) that do not offer graduate programs. To begin with, we pulled a csv version of the file into Excel and deleted all the schools related to cosmetology, beauty, massage, welding, mechanics, hairstyling, cosmetics, barber, spa, cosmetics, golf, community colleges, etc. none of which are in our Graduate Programs. 
